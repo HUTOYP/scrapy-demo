@@ -1,5 +1,3 @@
-how to install and use Scrapy:
-
 HOW TO INSTALL & USE SCRAPY:
 https://scrapy.org
 
